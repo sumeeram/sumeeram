@@ -144,7 +144,7 @@ Case studies live on the [portfolio](https://www.sumeeramadushanka.online/projec
 ## Public repositories
 
 <!-- AUTO:PUBLIC_REPOS:START -->
-Auto-synced from the GitHub API · last refresh **2026-11-16 06:55 UTC**
+Auto-synced from the GitHub API · last refresh **2026-11-17 08:12 UTC**
 
 | Repo | Language | Stars | What it is |
 |:---|:---|---:|:---|
